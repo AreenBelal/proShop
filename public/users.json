@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "anas",
+      "email": "anas@yahoo.com",
+      "password": "anasAnas123$$",
+      "role": "admin"
+    },
+    {
+      "id": 5,
+      "name": "sami",
+      "email": "sami@yahoo.com",
+      "password": "imadII123@@!!!!!",
+      "role": "user",
+      "image": "/uploads/1727877235591-images.jfif"
+    },
+    {
+      "id": 7,
+      "name": "imad",
+      "email": "imad@x.com",
+      "password": "imadII123@@!!!!!",
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "name": "sozan",
+      "email": "sozan@example.com",
+      "password": "SozanSozan123@@@@@@",
+      "role": "user"
+    },
+    {
+      "id": 9,
+      "name": "Areen",
+      "email": "Areen@example.com",
+      "password": "imadII123@@!!!!!",
+      "role": "user"
+    }
+  ]
+}

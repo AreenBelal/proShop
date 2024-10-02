@@ -1,0 +1,93 @@
+ 
+
+.RegisterImage {
+    animation: slide-down 0.5s ease;
+    margin-top: 50px;
+    object-fit: fill;
+    width: 100%;
+  }
+
+.authImg {
+  animation: slide-down 0.5s ease;
+  width: 700px;
+  height: 80vh;
+  max-width: 100%;
+  margin-top: 100px;
+  margin-bottom: 250px;
+  padding: 0px 10px;
+  margin-left: 80px;
+  object-fit: cover;
+}
+
+.chBox {
+  width: 12px;
+  height: 12px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  margin-right: 15px;
+  appearance: none;
+  position: relative;
+}
+
+.chBox:checked::after {
+  content: "";
+  position: absolute;
+  left: 2%;
+  top: -50%;
+  width: 6px;
+  height: 10px;
+  border: solid black;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  transform-origin: bottom left;
+}
+
+.signupButton {
+  border: 3px solid #fcdd06;
+  border-radius: 20px;
+  opacity: 1;
+  width: 230px;
+  height: 40px;
+  background-color: transparent;
+  text-decoration: none;
+  position: relative;
+}
+
+.authLinks {
+  text-decoration: none;
+  text-align: left;
+  font: normal normal 300 16px/15px Muli;
+  letter-spacing: 0.88px;
+  color: #242424;
+  opacity: 1;
+}
+
+.regLinkToLogin{
+  margin-left: 10px;
+  text-decoration: none;
+text-align: center;
+font: normal normal normal 18px/15px Muli;
+letter-spacing: 0.88px;
+color: #242424;
+}
+
+ 
+
+@keyframes slide-up {
+  0% {
+    transform: translateY(-5rem);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-down {
+  0% {
+    transform: translateY(5rem);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+

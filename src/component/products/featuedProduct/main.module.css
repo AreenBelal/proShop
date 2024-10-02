@@ -1,0 +1,30 @@
+
+.main{
+    height: 750px;
+    background: hsl(228, 45%, 98%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    max-width: 100%;
+    margin: 5% 0px;
+}
+
+.title{
+margin: 0px auto;
+font: normal normal bold 32px/15px Muli;
+letter-spacing: 1.28px;
+color: #242424;
+text-transform: uppercase;
+opacity: 1;
+text-align: center;
+padding-top: 5%;
+}
+
+
+.Cards{
+    width: 70%;
+    margin: 50px auto;
+    
+
+}
+
+
+ 

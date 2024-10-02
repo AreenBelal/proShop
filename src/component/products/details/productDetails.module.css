@@ -1,0 +1,27 @@
+ 
+ 
+.Back{
+text-decoration: none;
+font: normal normal normal 24px/15px Muli;
+letter-spacing: 0.96px;
+color: #707070;
+margin-left: 5%;
+}
+
+
+.paragrahDetails{
+text-align: left;
+font: normal normal normal 16px/30px Muli;
+letter-spacing: 0.32px;
+color: #242424;
+margin-top: 50px;
+}
+ 
+ 
+.size_clicked {
+    background-color: black !important;
+    color: white;
+  }
+  
+
+ 

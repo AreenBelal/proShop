@@ -1,0 +1,136 @@
+ 
+
+.proshop {
+    font: normal normal 900 40px/15px Muli;
+    letter-spacing: 1.6px;
+    color: #FFFFFF;
+    margin-left: 5%;
+}
+
+.search {
+    max-width: 100%;
+    width: 60%;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 6px;
+    padding: 0;
+    display: flex;
+}
+
+.buttons {
+    align-items: center;
+    gap: 10px;
+   flex-wrap: wrap;
+}
+
+.oneButton{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.AwesomeIcon{
+    font-size: 20px;
+}
+.badgeCircle{
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background: #FCDD06;
+    color: black;
+    font-size: 15px;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+    opacity: 1;
+    position: absolute;
+    right: -10px;
+    top: -10px;
+}
+.names{
+    text-align: center;    
+    font: normal normal normal 13px/16px Muli;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+ 
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        padding: 0 15px; 
+    }
+
+    .proshop {
+        font-size: 26px; 
+        margin-left: 0;
+        text-align: center; 
+        margin-bottom: 15px; 
+    }
+
+    .search {
+        max-width: 100%;
+        margin-bottom: 15px; 
+    }
+
+    .buttons {
+        width: 100%;
+        gap: 10px;  
+        justify-content: center;  
+        align-items: center;
+        margin: 20px auto;  
+    }
+
+    .oneButton {
+        flex: 1;
+        max-width: 45%;  
+        margin-bottom: 10px; 
+    }
+
+    .names {
+        font-size: 13px;  /* تحسين حجم الخط ليكون أكثر وضوحًا */
+        margin-top: 5px; 
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        padding: 0 10px; 
+    }
+
+    .proshop {
+        font-size: 22px;   
+        margin-left: 0;
+        text-align: center;
+        margin-bottom: 12px;
+    }
+
+    .search {
+        width: 100%;  
+        margin-bottom: 12px; 
+    }
+
+    .buttons {
+        width: 100%;
+        gap: 10px;  
+        justify-content: center;  
+        align-items: center;
+        margin: 10px auto;  
+    }
+
+    .oneButton {
+        width: 48%;   
+        margin-bottom: 10px; 
+        text-align: center;
+        flex: 1
+     }
+
+    .names {
+        font-size: 12px;  
+        margin-top: 5px;
+    }
+}

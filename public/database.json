@@ -1,0 +1,373 @@
+{
+  "products": [
+    {
+      "id": 9,
+      "name": "Bose QuietComfort 35 II",
+      "category": "Headphones",
+      "price": 299,
+      "discount": 20,
+      "rating": 4.7,
+      "image": "images/product9.jpg",
+      "description": "Wireless noise-cancelling headphones known for their comfort and sound quality.",
+      "stock": 18,
+      "color": "Silver",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "GoPro Hero 10",
+      "category": "Cameras",
+      "price": 399,
+      "discount": 10,
+      "rating": 2.1,
+      "image": "images/product11.jpg",
+      "description": "A versatile action camera with 5.3K video and HyperSmooth stabilization.",
+      "stock": 10,
+      "color": "Black",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sony Alpha a7 III",
+      "category": "Cameras",
+      "price": 1999,
+      "discount": 5,
+      "rating": 4.4,
+      "image": "images/product12.jpg",
+      "description": "A powerful mirrorless camera with a full-frame sensor and 4K video recording.",
+      "stock": 5,
+      "color": "Black",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Xbox Series X",
+      "category": "Gaming",
+      "price": 499,
+      "discount": 10,
+      "rating": 4.1,
+      "image": "images/product5.jpg",
+      "description": "Microsoft's most powerful console, with 4K gaming and fast load times.",
+      "stock": 15,
+      "color": "Black",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Google Pixel 6",
+      "category": "Mobile Phones",
+      "price": 699,
+      "discount": 12,
+      "rating": 4.2,
+      "image": "images/product6.jpg",
+      "description": "Google's latest smartphone with an exceptional camera and clean Android experience.",
+      "stock": 7,
+      "color": "Stormy Black",
+      "sizes": [
+        "128GB",
+        "256GB"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Samsung Galaxy Watch 4",
+      "category": "Wearables",
+      "price": 249,
+      "discount": 15,
+      "rating": 3.5,
+      "image": "images/product3.jpg",
+      "description": "A smartwatch with health tracking and seamless integration with Samsung devices.",
+      "stock": 12,
+      "color": "Silver",
+      "sizes": [
+        "Small",
+        "Large"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Apple Watch Series 7",
+      "category": "Wearables",
+      "price": 399,
+      "discount": 10,
+      "rating": 2.5,
+      "image": "images/product2.jpg",
+      "description": "The latest Apple Watch with advanced health features and a larger display.",
+      "stock": 10,
+      "color": "Midnight",
+      "sizes": [
+        "41mm",
+        "45mm"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Canon EOS R5",
+      "category": "Cameras",
+      "price": 3899,
+      "discount": 8,
+      "rating": 2.8,
+      "image": "images/product8.jpg",
+      "description": "A top-tier mirrorless camera with 8K video and incredible autofocus.",
+      "stock": 3,
+      "color": "Black",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Oculus Quest 2",
+      "category": "VR Headsets",
+      "price": 299,
+      "discount": 10,
+      "rating": 1.5,
+      "image": "images/product5.jpg",
+      "description": "A standalone VR headset offering immersive virtual reality experiences.",
+      "stock": 20,
+      "color": "White",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "DJI Mavic Air 2",
+      "category": "Drones",
+      "price": 799,
+      "discount": 10,
+      "rating": 4.2,
+      "image": "images/product10.jpg",
+      "description": "A compact drone with impressive camera quality and intelligent shooting modes.",
+      "stock": 10,
+      "color": "Gray",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Logitech MX Master 3",
+      "category": "Computer Accessories",
+      "price": 99,
+      "discount": 20,
+      "rating": 3,
+      "image": "images/product2.jpg",
+      "description": "An advanced wireless mouse with customizable buttons and a comfortable design.",
+      "stock": 18
+    },
+    {
+      "id": 21,
+      "name": "Microsoft Surface Laptop 4",
+      "category": "Laptops",
+      "price": 1299,
+      "discount": 7,
+      "rating": 3.1,
+      "image": "images/product7.jpg",
+      "description": "A sleek and powerful laptop with a PixelSense display and long battery life.",
+      "stock": 8
+    },
+    {
+      "id": 22,
+      "name": "Anker PowerCore 10000",
+      "category": "Power Banks",
+      "price": 49,
+      "discount": 10,
+      "rating": 4.3,
+      "image": "images/product8.jpg",
+      "description": "A compact and portable power bank with fast charging capability.",
+      "stock": 25
+    },
+    {
+      "id": 23,
+      "name": "Razer DeathAdder V2",
+      "category": "Gaming Accessories",
+      "price": 69,
+      "discount": 15,
+      "rating": 4.3,
+      "image": "images/product11.jpg",
+      "description": "A high-precision gaming mouse with customizable buttons and RGB lighting.",
+      "stock": 30
+    },
+    {
+      "id": 24,
+      "name": "Apple AirPods Pro",
+      "category": "Headphones",
+      "price": 249,
+      "discount": 5,
+      "rating": 2,
+      "image": "images/product10.jpg",
+      "description": "Active noise-cancelling wireless earbuds with superior sound quality.",
+      "stock": 50
+    },
+    {
+      "id": 25,
+      "name": "Amazon Echo Dot (4th Gen)",
+      "category": "Smart Home",
+      "price": 49,
+      "discount": 20,
+      "rating": 2,
+      "image": "images/product7.jpg",
+      "description": "A compact smart speaker with Alexa voice control and a sleek design.",
+      "stock": 40
+    },
+    {
+      "id": 26,
+      "name": "Philips Hue White LED Starter Kit",
+      "category": "Smart Lighting",
+      "price": 99,
+      "discount": 15,
+      "rating": 4,
+      "image": "images/product6.jpg",
+      "description": "A smart lighting system that lets you control your lights from your phone or voice assistant.",
+      "stock": 10
+    },
+    {
+      "id": 27,
+      "name": "Nikon Z6 II",
+      "category": "Cameras",
+      "price": 1999,
+      "discount": 5,
+      "rating": 4.3,
+      "image": "images/product8.jpg",
+      "description": "A versatile mirrorless camera with 4K video and fast autofocus.",
+      "stock": 7
+    },
+    {
+      "name": "newProduct",
+      "category": "Mobile Phones",
+      "price": "333333",
+      "id": 28
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Gaming",
+      "description": "Consoles, games, and accessories.",
+      "image": "images/category1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mobile Phones",
+      "description": "Latest smartphones from top brands.",
+      "image": "images/category2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shoes",
+      "description": "Sports and casual footwear.",
+      "image": "images/category3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Laptops",
+      "description": "High-performance laptops for work and entertainment.",
+      "image": "images/category4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Headphones",
+      "description": "Noise-cancelling and wireless headphones.",
+      "image": "images/category5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fitness Trackers",
+      "description": "Wearables to monitor your health and fitness.",
+      "image": "images/category6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Cameras",
+      "description": "Digital cameras and accessories.",
+      "image": "images/category7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Wearables",
+      "description": "Smartwatches and fitness bands.",
+      "image": "images/category8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "VR Headsets",
+      "description": "Virtual reality devices.",
+      "image": "images/category9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Drones",
+      "description": "High-performance drones for aerial photography.",
+      "image": "images/category10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Computer Accessories",
+      "description": "Keyboards, mice, and other computer peripherals.",
+      "image": "images/category4.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Power Banks",
+      "description": "Portable power solutions for charging your devices.",
+      "image": "images/category7.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Gaming Accessories",
+      "description": "High-performance accessories for gamers.",
+      "image": "images/category1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Smart Home",
+      "description": "Devices for a connected home.",
+      "image": "images/category2.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Smart Lighting",
+      "description": "Smart bulbs and lighting systems.",
+      "image": "images/category5.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Speakers",
+      "description": "Portable and home speakers.",
+      "image": "images/category9.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Home Appliances",
+      "description": "Innovative appliances for home use.",
+      "image": "images/category1.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Tablets",
+      "description": "Tablets for work, play, and creativity.",
+      "image": "images/category4.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Fitness Equipment",
+      "description": "Equipment for fitness and workouts.",
+      "image": "images/category10.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Office Supplies",
+      "description": "Supplies for a productive office environment.",
+      "image": "images/category6.jpg"
+    }
+  ]
+}
