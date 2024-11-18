@@ -1,0 +1,36 @@
+.proshop {
+    font: normal normal 900 40px/15px Muli;
+    letter-spacing: 1.6px;
+    color: #FFFFFF;
+    margin-left: 5%;
+}
+
+.search {
+    width: 60%;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+
+.badgeCircle{
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background: #FCDD06;
+    color: black;
+    font-size: 15px;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+    opacity: 1;
+    position: absolute;
+    right: -10px;
+    top: -15px;
+}
+.names{
+    text-align: center;    
+    font: normal normal normal 13px/16px Muli;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}

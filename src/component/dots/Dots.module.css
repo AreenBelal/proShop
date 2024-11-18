@@ -1,0 +1,15 @@
+.circularButton {
+    border: none;
+    width: 14px;
+    height: 14px;
+    background: #707070 0% 0% no-repeat padding-box;
+    opacity: 0.3;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-right: 10px;
+  }
+  
+  .circularYellow {
+    background: #FCDD06 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
